@@ -211,7 +211,7 @@ def apply_style(element_count, property_count):
                     for z, s, c in HERO_TILES)
     st.markdown(
         "<div class='hero'>"
-        "<div class='hero-kicker'>Interactive chemistry lab</div>"
+        "<div class='hero-kicker'>Interactive Chemistry Lab - Initiative by Aayush Mishra</div>"
         f"<div class='hero-title'>{APP_NAME}</div>"
         "<div class='hero-sub'>Explore how the elements are arranged, and why their "
         "properties rise and fall.</div>"
@@ -224,8 +224,8 @@ def apply_style(element_count, property_count):
 
 
 def footer():
-    st.markdown(f"<div class='pe-footer'>{APP_NAME} · element data from the "
-                "mendeleev Python library</div>", unsafe_allow_html=True)
+    st.markdown(f"<div class='pe-footer'>{APP_NAME} · Initiative by Aayush Mishra "
+                "</div>", unsafe_allow_html=True)
 
 
 TOUCH_FIX = """
