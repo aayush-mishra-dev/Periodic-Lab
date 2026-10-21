@@ -1,8 +1,8 @@
 # ⚛️ Periodic Lab
 
-**An interactive periodic table that doesn't just show the elements, it explains them.**
+**An interactive periodic table that explains the elements extensively.**
 
-🔗 **Live site:** _add your link here_
+🔗 **Live site: periodiclab.streamlit.app**
 
 ---
 
@@ -10,7 +10,7 @@
 
 **🧪 Explorer**
 - Colour all 118 elements by **16 properties**: block, family, state, radioactivity, crystal structure, atomic radius, ionisation enthalpy, electronegativity, electron gain enthalpy, valency, atomic mass, density, melting and boiling points, abundance and year of discovery
-- See **trend arrows** across periods and down groups, with the **exceptions** marked and explained (why is O easier to ionise than N?)
+- See **trend arrows** across periods and down groups, with the **exceptions** marked and explained
 - Tap any element for its full profile, electronic configuration and story
 - Watch an **animated atom** with electrons orbiting shell by shell
 - Dive deeper with graphs across its period, down its group, across the whole table, and where it ranks among all elements
@@ -26,6 +26,8 @@
 **🌍 Visitors:** see how many people have explored the site, and from which countries
 
 Works on computers and phones.
+
+Project by Aayush Mishra
 
 ---
 
