@@ -1,0 +1,5 @@
+# Never upload these to GitHub
+.streamlit/secrets.toml
+visits.json
+__pycache__/
+*.pyc

@@ -1,0 +1,6 @@
+streamlit>=1.45
+plotly
+mendeleev
+pandas
+requests
+pycountry
